@@ -1,6 +1,6 @@
 {
-  "Test1": "test1 DD LV 1.",
-  "_VersionSetting": "DD LV 0.1 ",
+  "Test1": "test1 DD LV 0.2",
+  "_VersionSetting": "DD LV 0.2 ",
 "Logo": "https://DinaDurykina.github.io/app4webline.png ", 
 "Reclama": "false ",
 "AdMob_BANNER": "true ",
@@ -11,7 +11,7 @@
 "http_setting": "https://DinaDurykina.github.io/web4app_setting.json ",
 "http_gorizont": "https://DinaDurykina.github.io/web4app_gorizont.json ",
 "http_vertical": "https://DinaDurykina.github.io/web4app_vertical.json ", 
-  "Шаблон": [
+  "Template": [
 "Mobile ",
 "Native",
 "Reactive",
@@ -21,7 +21,7 @@
 "Reactive Native tab"
 ],
 "NoIcon": "https://DinaDurykina.github.io/icons8-глобус-24.png ",
-"Тост": "ложь ",
-"Snekbar": "true ",
+"Toast": "false",
+"Snekbar": "true",
 "Push": "true"
 }
