@@ -1,0 +1,28 @@
+{
+  "Test1": "test1 DD LV 1.5",
+  "_VersionSetting": "DD LV 1.5 ",
+"Logo": "https://DinaDurykina.github.io/app4webline.png ", 
+"Reclama": "false ",
+"AdMob_BANNER": "true ",
+"ID_APP": "ca-app-pub-4136371087370112~6171379650 ",
+"id_BANNER0": "ca-app-pub-4136371087370112/2298996526 ",
+"MyBANNER": "HTTP ",
+"OtherReclama": "true ",
+"http_setting": "https://DinaDurykina.github.io/web4app_setting.json ",
+"http_gorizont": "https://DinaDurykina.github.io/web4app_gorizont.json ",
+"http_vertical": "https://DinaDurykina.github.io/web4app_vertical.json ", 
+  
+  "Name_Template": [
+    {"name_template" : "Mobile ","url_template" : "https://DinaDurykina.github.io/#jason.json"},
+    {"name_template" : "Native","url_template" : "https://DinaDurykina.github.io/TPL01RN.json"},
+    {"name_template" : "Reactive","url_template" : "https://DinaDurykina.github.io/TPL01RNS.json"},
+    {"name_template" : "Reactive Native","url_template" : "https://DinaDurykina.github.io/TPL011NNS.json"},
+    {"name_template" : "Native tab","url_template" : "https://DinaDurykina.github.io/TPL011NN.json"},
+    {"name_template" : "Reactive tab ","url_template" : "https://DinaDurykina.github.io/TPL011NNFAB.json"}
+    {"name_template" : "Reactive Native tab","url_template" : "https://DinaDurykina.github.io/TPL011NNFABS"}
+],
+"NoIcon": "https://DinaDurykina.github.io/icons8-глобус-24.png ",
+"Toast": "false",
+"Snekbar": "true",
+"Push": "true"
+}
