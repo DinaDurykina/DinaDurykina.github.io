@@ -1,6 +1,6 @@
 {
-  "Test1": "test1 DD LV 0.3",
-  "_VersionSetting": "DD LV 0.3 ",
+  "Test1": "test1 DD LV 0.5",
+  "_VersionSetting": "DD LV 0.5 ",
 "Logo": "https://DinaDurykina.github.io/app4webline.png ", 
 "Reclama": "false ",
 "AdMob_BANNER": "true ",
@@ -13,13 +13,13 @@
 "http_vertical": "https://DinaDurykina.github.io/web4app_vertical.json ", 
   
   "Name_Template": [
-    {"Mobile ","https://DinaDurykina.github.io/#jason.json"},
-    {"Native","https://DinaDurykina.github.io/TPL01RN.json"},
-    {"Reactive","https://DinaDurykina.github.io/TPL01RNS.json"},
-    {"Reactive Native","https://DinaDurykina.github.io/TPL011NNS.json"},
-    {"Native tab","https://DinaDurykina.github.io/TPL011NN.json"},
-    {"Reactive tab ","https://DinaDurykina.github.io/TPL011NNFAB.json"},
-    {"Reactive Native tab","https://DinaDurykina.github.io/TPL011NNFABS"}
+    {"name_template" : "Mobile ","url_template" : "https://DinaDurykina.github.io/#jason.json"},
+    {"name_template" : "Native","url_template" : "https://DinaDurykina.github.io/TPL01RN.json"},
+    {"name_template" : "Reactive","url_template" : "https://DinaDurykina.github.io/TPL01RNS.json"},
+    {"name_template" : "Reactive Native","url_template" : "https://DinaDurykina.github.io/TPL011NNS.json"},
+    {"name_template" : "Native tab","url_template" : "https://DinaDurykina.github.io/TPL011NN.json"},
+    {"name_template" : "Reactive tab ","url_template" : "https://DinaDurykina.github.io/TPL011NNFAB.json"},
+    {"name_template" : "Reactive Native tab","url_template" : "https://DinaDurykina.github.io/TPL011NNFABS"}
 ],
 "NoIcon": "https://DinaDurykina.github.io/icons8-глобус-24.png ",
 "Toast": "false",
