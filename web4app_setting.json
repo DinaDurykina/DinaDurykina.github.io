@@ -22,6 +22,7 @@
 "NoIcon": "https://DinaDurykina.github.io/icons8-глобус-24.png",
 "Toast": "false",
 "Snekbar": "true",
-"Push": "true"
+"Push": "true",
+"http_calc" : "https://DinaDurykina.github.io/calc_Platform_NoImage.json"
 }
 
